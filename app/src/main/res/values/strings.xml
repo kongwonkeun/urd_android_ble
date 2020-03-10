@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">URBLETerm</string>
+    <string name="action_setting">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_fragment_label">List Fragment</string>
+    <string name="term_fragment_label">Term Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="list_header">Bluetooth Devices</string>
+    <string name="pairing_request">Pairing Requested \nPerform Pairing Step and \nConnect Again</string>
+    <string name="location_denied_title">Location Permission Denied</string>
+    <string name="location_denied_message">As location permission has not been granted, \nthis app cannot scan for BLE devices</string>
+    <string name="location_permission_title">Location Permission Required</string>
+    <string name="location_permission_message">This app does not use location information, \nbut scanning for BLE devices requires this permission</string>
+
+</resources>
